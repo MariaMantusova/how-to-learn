@@ -41,6 +41,7 @@
   justify-content: space-evenly;
   flex-wrap: wrap;
   margin: 0;
+  padding: 0;
 }
 
 .table__cell {
@@ -265,6 +266,7 @@
 
 .table_theme_dark {
   margin: 0;
+  padding: 0;
 }
 
 .table__cell_theme_dark {
@@ -287,8 +289,10 @@
   position: absolute;
   width: 877px;
   height: 877px;
+  top: 0;
   right: -210px;
   background-image: url("../images/kaufman-triangle.svg");
+  background-size: contain;
   z-index: -1;
 }
 
