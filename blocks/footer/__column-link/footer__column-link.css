@@ -8,8 +8,10 @@
   font-weight: normal;
   display: flex;
   align-items: center;
+  opacity: 1;
 }
 
 .footer__column-link:hover {
-  color: #2f80ed;
+  opacity: 0.6;
+  transition: opacity 1s linear;
 }
