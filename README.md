@@ -17,6 +17,7 @@ ______
 * Свойство transition
 * Псевдоклассы
 
+[Ссылка на сайт](https://mariamantusova.github.io/how-to-learn/)
 ## Планы по доработке проекта
 ______
 
